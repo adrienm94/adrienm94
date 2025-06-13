@@ -29,7 +29,7 @@ J'ai eu l'occasion d'alimenter ma soif de connaissances lors de mon passage dans
 
 ###
 
-<h2 align="left">Technologies que je peux utiliser</h2>
+<h2 align="left">Technologies que j'ai pu utiliser</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
