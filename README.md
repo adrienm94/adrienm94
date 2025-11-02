@@ -2,11 +2,8 @@
 
 ###
 
-<h2 align="center">🚀 Développeur web fullstack junior</h2>
+<h2 align="center">🚀 Développeur informatique</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adrienm94/count.svg?"  />
-</div>
 
 ###
 
