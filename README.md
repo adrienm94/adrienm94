@@ -17,7 +17,6 @@ J'ai eu l'occasion d'alimenter ma soif de connaissances lors de mon passage dans
 
 ###
 
-<h3 align="center"><a href="https://adrienm94.github.io/Portfolio/">Mon Portfolio &#128279;</h3>
 <h3 align="center">
   <a href="https://fr.linkedin.com/in/adrien-meyrand"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>&#128279;
 </h3>
