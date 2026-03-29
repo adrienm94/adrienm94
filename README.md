@@ -56,7 +56,6 @@ J'ai eu l'occasion d'alimenter ma soif de connaissances lors de mon passage dans
 <h2 align="left">Quelques-uns de mes projets</h2>
 
 <div align="left">
-  <p><a href="https://github.com/adrienm94/Portfolio">Portfolio :</a> projet visuel permettant de me présenter</p>
   <p><a href="https://github.com/adrienm94/GenerateurMotDePasse-PHP">Générateur de mot de passe :</a> mini-application réalisée en PHP permettant de générer aléatoirement un mot de passe et de vérifier si celui-ci est fort ou non</p>
   <p><a href="https://github.com/adrienm94/Maquette-Lilipinso-SASS">Lilipinso </a>: réalisation d'une maquette utilisant le préprocesseur SASS</p>
   <p><a href="https://github.com/adrienm94/JavaEEProjetMonuments">Monuments :</a> application web de description de monuments situés dans des communes, réalisée avec le framework Spring Boot et utilisant le moteur de rendu HTML ThymeLeaf</p>
